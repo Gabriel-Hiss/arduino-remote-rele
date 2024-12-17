@@ -32,8 +32,8 @@ Módulo Relé: Controla dispositivos eletrônicos com sinal digital. Neste proje
 ⚙️ Funcionamento
 A conexão Ethernet permite acessar o servidor web hospedado no Arduino.
 A página HTML inclui um botão que ativa o relé.
-O relé fica ativo por 10 segundos e depois é desligado automaticamente.
----
+O relé fica ativo por 30 segundos e depois é desligado automaticamente.
+
 
 # en-us
 
@@ -78,4 +78,6 @@ O relé fica ativo por 10 segundos e depois é desligado automaticamente.
 
 The Ethernet connection allows access to the web server hosted on the Arduino.  
 The HTML page includes a button that activates the relay.  
-The relay stays active for **10 seconds** and then automatically turns off.
+The relay stays active for **30 seconds** and then automatically turns off.
+
+### This translation is ai generated
