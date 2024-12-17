@@ -33,6 +33,7 @@ Módulo Relé: Controla dispositivos eletrônicos com sinal digital. Neste proje
 A conexão Ethernet permite acessar o servidor web hospedado no Arduino.
 A página HTML inclui um botão que ativa o relé.
 O relé fica ativo por 10 segundos e depois é desligado automaticamente.
+---
 
 # en-us
 
